@@ -37,7 +37,7 @@ obj.say();
 
 // })
 
-var obj = {
+let obj = {
 	name: 'KK',
 	age: '30'
 };
